@@ -8,5 +8,5 @@ if ika1 == ika2:
     print(f"{nimi1} ja {nimi2} ovat yhtä vanhoja")
 elif ika1 > ika2:
     print(f"Vanhempi on {nimi1}")
-else ika1 < ika2:
+elif ika1 < ika2:
     print(f"Vanhempi on {nimi2}")
